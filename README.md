@@ -63,4 +63,5 @@ Privacy Checker:
 - Transparency in how analysis works
 - Clear disclaimer about tool limitations
 - Recommendations for seeking professional help when needed
-
+# Presentation File Link
+https://www.canva.com/design/DAGypUTDl2Q/fjlMbmtHhouXVd_HZ59HJw/edit?utm_content=DAGypUTDl2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
