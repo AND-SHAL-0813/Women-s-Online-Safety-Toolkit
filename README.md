@@ -65,3 +65,11 @@ Privacy Checker:
 - Recommendations for seeking professional help when needed
 # Presentation File Link
 https://www.canva.com/design/DAGypUTDl2Q/fjlMbmtHhouXVd_HZ59HJw/edit?utm_content=DAGypUTDl2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Snapshots Containing Technical Implementation
+![toolkit1](https://github.com/user-attachments/assets/2d1591a8-acf3-4640-b949-0a6fa414af41)
+![toolkit2](https://github.com/user-attachments/assets/54ed7974-8d8b-490d-87a3-21b88ce5ae25)
+![toolkit3](https://github.com/user-attachments/assets/e8b54bfd-8964-4857-989b-5d288b3a6c10)
+![toolkit4](https://github.com/user-attachments/assets/c73cd227-1b4d-4b06-b23a-8aeda88fb810)
+![toolkit5](https://github.com/user-attachments/assets/8b81d314-14f2-4bb8-bd73-d5c508fd2a90)
+![toolkit6](https://github.com/user-attachments/assets/2fea51e5-e585-4867-8264-e468220f568c)
+![toolkit7](https://github.com/user-attachments/assets/199f456a-a5a9-4d2f-8d88-fb7273af49d7)
